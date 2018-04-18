@@ -1,0 +1,22 @@
+﻿.net Core 2 ;架构设计好的，3 设计简单 4 功能成熟
+
+1: cloudscribe.SimpleContent  NetStandard Library
+   https://github.com/OneOfBestMan/cloudscribe.SimpleContent
+
+2: AtNet.CMS  .net framework 4
+   https://github.com/jsix/cms  
+
+3: Weapsy.CMS .net core 2  设计简单 架构合适 功能不完善，需要开发  备用
+   https://github.com/OneOfBestMan/Weapsy.CMS
+
+4： Squidex  NetStandard Library
+    https://github.com/Squidex/squidex
+
+5： blog-core 项目打不开
+  https://github.com/OneOfBestMan/blog-core
+
+6： Cofoundry  NetStandard Library
+    https://github.com/OneOfBestMan/cofoundry
+
+7：Awesome-CMS-Core  .net core 2  设计简单 架构合适 简单，没有进一步的依赖项
+    https://github.com/Awesome-CMS-Core/Awesome-CMS-Core
