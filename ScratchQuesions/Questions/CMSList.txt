@@ -1,22 +1,53 @@
 ﻿.net Core 2 ;架构设计好的，3 设计简单 4 功能成熟
 
+1: Platformus  .net core 2  设计简单 架构优美 后台功能有待完善  备用
+   Free, open source and cross-platform CMS based on ASP.NET Core and ExtCore framework 
+    https://github.com/Platformus/Platformus
+
+
+2: Weapsy.CMS .net core 2  设计简单 架构合适 功能不完善，需要开发  备用
+   https://github.com/OneOfBestMan/Weapsy.CMS
+
+3：Awesome-CMS-Core  .net core 2  设计简单 架构合适 简单，没有进一步的依赖项 安装前提多（安装失败） 用Node  暂时备用
+    https://github.com/Awesome-CMS-Core/Awesome-CMS-Core
+
+   10 Blogifier net core 2, 架构相当简单，有后台，有前台 备用
+   https://github.com/blogifierdotnet/Blogifier
+   User: demo@us.com
+   Password: Demo@us1
+
 1: cloudscribe.SimpleContent  NetStandard Library
    https://github.com/OneOfBestMan/cloudscribe.SimpleContent
 
 2: AtNet.CMS  .net framework 4
    https://github.com/jsix/cms  
 
-3: Weapsy.CMS .net core 2  设计简单 架构合适 功能不完善，需要开发  备用
-   https://github.com/OneOfBestMan/Weapsy.CMS
-
-4： Squidex  NetStandard Library
+3： Squidex  NetStandard Library
     https://github.com/Squidex/squidex
 
-5： blog-core 项目打不开
+4： blog-core 项目打不开
   https://github.com/OneOfBestMan/blog-core
 
-6： Cofoundry  NetStandard Library
+5： Cofoundry  NetStandard Library
     https://github.com/OneOfBestMan/cofoundry
 
-7：Awesome-CMS-Core  .net core 2  设计简单 架构合适 简单，没有进一步的依赖项
-    https://github.com/Awesome-CMS-Core/Awesome-CMS-Core
+6：Swastika-IO-Core 打不开  NetStandard Library
+    https://github.com/Swastika-IO/Swastika-IO-Core
+
+7: lyniconanc 就一个网站，没有什么架构 
+   Lynicon CMS for ASP.Net Core for .Net Standard 2.0/1.1 and .Net 4.6.1/4.6 
+   https://github.com/jamesej/lyniconanc
+8：ZKEACMS  核心还是基于 Standard 1.1
+   https://github.com/SeriaWei/ZKEACMS.Core
+
+   9:  KalikoCMS  .net framework 4.5 架构简单
+   https://github.com/KalikoCMS/KalikoCMS.Core
+
+   10 Halcyon-Core  部分项目打不开
+   https://github.com/Halcyon-Core/Halcyon-Core
+
+
+
+
+
+
