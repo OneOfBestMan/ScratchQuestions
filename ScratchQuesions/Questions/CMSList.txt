@@ -11,7 +11,7 @@
 3：Awesome-CMS-Core  .net core 2  设计简单 架构合适 简单，没有进一步的依赖项 安装前提多（安装失败） 用Node  暂时备用
     https://github.com/Awesome-CMS-Core/Awesome-CMS-Core
 
-   10 Blogifier net core 2, 架构相当简单，有后台，有前台 备用
+4 Blogifier net core 2, 架构相当简单，有后台，有前台 备用
    https://github.com/blogifierdotnet/Blogifier
    User: demo@us.com
    Password: Demo@us1
@@ -37,6 +37,7 @@
 7: lyniconanc 就一个网站，没有什么架构 
    Lynicon CMS for ASP.Net Core for .Net Standard 2.0/1.1 and .Net 4.6.1/4.6 
    https://github.com/jamesej/lyniconanc
+
 8：ZKEACMS  核心还是基于 Standard 1.1
    https://github.com/SeriaWei/ZKEACMS.Core
 
@@ -46,8 +47,32 @@
    10 Halcyon-Core  部分项目打不开
    https://github.com/Halcyon-Core/Halcyon-Core
 
+   GZY_CMS net core 2  开发初期阶段，不完善
+   https://github.com/l2999019/GZY_CMS
 
+   piranha.core  .net core1.1 架构简单
+   https://github.com/piranhacms/piranha.core
 
+   SpoonCMS 服务还是依赖 .net core 1.1 架构简单
+   https://github.com/BenTMatthews/SpoonCMS
+
+   CoreCms .net core 1.1 架构简单 
+   https://github.com/KarolN/CoreCms
+
+   miniweb-coreclr  .net core 1.1 架构简单 
+   https://github.com/IRooc/miniweb-coreclr
+
+   YetaWF-CoreComponents 找不到解决方案
+   https://github.com/YetaWF/YetaWF-CoreComponents
+
+   BetterCMS .net framewok 4.5
+   https://github.com/rjty/BetterCMS
+
+   dotnet-core-simple-cms 项目打不开
+   https://github.com/EmreKarahan/dotnet-core-simple-cms
+
+   riverside-cms .net core 1.1 架构简单，项目正在改造成core 2 ,功能完善
+   https://github.com/riverside-internet/riverside-cms
 
 
 
